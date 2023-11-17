@@ -30,7 +30,7 @@
 
 # 📖 TDD <a name="about-project"></a>
 
-**TTD PROJECT** is app where users can
+**TTD PROJECT** 
 In this project we implemented a class with some methods, we did it by doing test-driven development (TDD).
 ## 🛠 Built With <a name="built-with"></a>
 
