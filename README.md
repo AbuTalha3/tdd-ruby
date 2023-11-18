@@ -30,7 +30,7 @@
 
 # 📖 TDD <a name="about-project"></a>
 
-**TTD PROJECT** is app where users can
+**TTD PROJECT** 
 In this project we implemented a class with some methods, we did it by doing test-driven development (TDD).
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -91,14 +91,17 @@ it will install the required gemfile for running the project
 <!-- AUTHORS -->
 
 ## 👥 Author <a name="author"></a>
+**Abu Talha**
 
-👤 **Author1**
- *[Abu Talha]*
+- GitHub: [@ABU TALHA](https://github.com/abutalha3)
+- Twitter: [@ABU TALHA Tallha](https://twitter.com/)
+- LinkedIn: [@ABU TALHA](https://www.linkedin.com/in/)
 
+**Lucy W. Mwangi**
 
-
-👤 **Author2**
-  *[Lucy Wanjiru]*
+- GitHub: [@lucy-sees](https://github.com/lucy-sees)
+- Twitter: [@Lucy W. Mwangi](https://twitter.com/lucy_w_mwangi)
+- LinkedIn: [@Lucy W. Mwangi (Wanjiru) Mwangi](https://www.linkedin.com/in/lucy-wanjiru-mwangi)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
