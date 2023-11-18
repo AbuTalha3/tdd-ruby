@@ -1,5 +1,3 @@
-require './solver'
-
 describe Solver do
   describe '#factorial' do
     it 'should return error if number is negative' do
