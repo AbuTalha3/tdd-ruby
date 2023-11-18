@@ -1,8 +1,5 @@
-source 'https://rubygems.org'
+# frozen_string_literal: true
 
-gem 'rubocop', '>= 1.0', '< 2.0'
+source "https://rubygems.org"
 
-# Run against this stable release
-group :development, :test do
-  gem 'rspec-rails', '~> 6.0.0'
-end
+# gem "rails"
